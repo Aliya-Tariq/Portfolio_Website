@@ -28,8 +28,9 @@ Your theme preference is saved locally and restored on future visits.
 
 ## Live Demo
 
-Visit the live website: [https://aliya-tariq.github.io/]
+Visit the live website: 
 
 ---
 
 © 2025 Aliya Tariq. All rights reserved.
+
