@@ -2,6 +2,12 @@
 
 A modern, responsive portfolio website showcasing my projects, publications, and professional experience as a Software Engineer.
 
+<br>
+
+
+[![Live Demo](https://img.shields.io/badge/🌟_Live_Demo-Try_Now-18C3B9?style=for-the-badge)](https://cheery-khapse-3d6299.netlify.app/)
+[![GitHub Stars](https://img.shields.io/github/stars/Aliya-Tariq/Portfolio_Website?style=for-the-badge&color=FFD369)](https://github.com/Aliya-Tariq/Portfolio_Website)
+[![License](https://img.shields.io/badge/License-MIT-4CAF50?style=for-the-badge)](LICENSE)
 ## Features
 
 - **Responsive Design**: Optimized for all device sizes
@@ -33,4 +39,5 @@ Visit the live website:
 ---
 
 © 2025 Aliya Tariq. All rights reserved.
+
 
